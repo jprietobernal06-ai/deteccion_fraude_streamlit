@@ -1,0 +1,3 @@
+# Ignorar archivos grandes y de datos
+data/*.csv
+*.csv
