@@ -1,8 +1,8 @@
-streamlit
+﻿streamlit
 pandas
 numpy
-lightgbm
 scikit-learn
+lightgbm
 matplotlib
 plotly
 joblib
